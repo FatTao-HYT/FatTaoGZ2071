@@ -11,8 +11,9 @@ public interface ServiceUser {
 //=======
 	// dev分支添加一个方法
 	void updateUser();
-//>>>>>>> refs/heads/dev-branch
 	
 	//李四手速慢 后添加
 	void add_lisi();
+	//张三手速快先添加了一个方法
+	void add_zhangsan();
 }
